@@ -1,3 +1,5 @@
+***In this app we have created a todolist app, please check how it is working.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
